@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: sourav Sarkar
 Donate link: http://souravonline.com/
 Tags: buddypress,profile,rating,star
 Requires at least: 3.0.1
