@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: sourav Sarkar
+Contributors: souravsapp
 Donate link: http://souravonline.com/
 Tags: buddypress,profile,rating,star
 Requires at least: 3.0.1
