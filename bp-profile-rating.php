@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Buddypress Profile Rating
+ * @package Akismet
  */
 /*
 Plugin Name: Buddypress Profile Rating
@@ -74,7 +74,7 @@ function bp_user_rate() {
 	}
 	?>
     <div class="bp_rating">
-    <span class="avrate">Avarage rate : </span>
+    <span class="avrate"><?php _e('Average rating','bp-profile-rating'); ?> : </span>
     <?php	
 		
 	if($total_rate>0){
@@ -116,7 +116,7 @@ function bp_user_rate() {
 	
 	
     <div class="bp_rating">
-    <span class="avrate">Your rate : </span>
+    <span class="avrate"><?php _e('Your raing','bp-profile-rating'); ?> : </span>
     <?php 
 		for($i=1;$i<=$urate;$i++)
 		{ 
